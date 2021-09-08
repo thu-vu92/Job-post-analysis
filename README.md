@@ -1,1 +1,2 @@
-# Repo for analyzing job descriptions/ comparing Data analyst, Data scientist and Business analyst roles. 
+# Repo for analyzing job descriptions 
+Comparing Data analyst, Data scientist and Business analyst roles using web-scraped data obtained from Diffbot and several NLP packages in Python. 
